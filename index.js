@@ -13,5 +13,4 @@ function deepestChild() {
     nextNode = nextNode.children[0]
   }
   return nextNode
-  
 }
