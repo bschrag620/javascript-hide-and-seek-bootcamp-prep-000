@@ -14,3 +14,7 @@ function deepestChild() {
   }
   return nextNode
 }
+
+function increaseRankBy(n) {
+  var rankedList = document.querySelectorAll()
+}
